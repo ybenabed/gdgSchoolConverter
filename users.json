@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bullshit</title>
+</head>
+<body>
+	<pre style="word-wrap: break-word; white-space: pre-wrap;">{
+	  "id": 1,
+	  "username": "youcef478",
+	  "password": "testing123",
+	  "email": "my_email@gmail.com",
+	  "phoneNumber": "0557108557",
+	  "isOwner": "false",
+	  "created": "22/01/2020"
+	}</pre>
+	<pre style="word-wrap: break-word; white-space: pre-wrap;">{
+	  "id": 2,
+	  "username": "ybenabed",
+	  "password": "123testing",
+	  "email": "my_email_2@gmail.com",
+	  "phoneNumber": "0557108558",
+	  "isOwner": "false",
+	  "created": "17/03/2020"
+	}</pre>
+	<pre style="word-wrap: break-word; white-space: pre-wrap;">{
+	  "id": 3,
+	  "username": "benyou",
+	  "password": "123qwerty",
+	  "email": "my_email_3@gmail.com",
+	  "phoneNumber": "0557108559",
+	  "isOwner": "false",
+	  "created": "16/02/2020"
+	}</pre>
+</body>
+</html>
