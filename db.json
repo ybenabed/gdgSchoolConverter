@@ -28,7 +28,7 @@
             "created": "16/02/2020"
         }
     ],
-    "offres": [
+    "offre": [
         {
             "id": 1,
             "title": "F3 à la frontiere!",
@@ -38,12 +38,50 @@
             "owner": 1
         },
         {
-            "id": 1,
+            "id": 2,
             "title": "F2 à la frontiere!",
             "equipement": "Non equipe",
             "position": "Annaba",
             "prix": 3400,
             "owner": 2
         }
+    ],
+    "pictures": [
+        {
+            "offre": 1,
+            "url": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1107i215%2Fx39t3satf5remjaezc7j61pcw6i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-3.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 1,
+            "url": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1107i215%2Fbtpx2e42vj3p4bag65rmkhj7b0i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-3.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 1,
+            "url": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1107i215%2Fy7pw1maa2cpn4ztktga8yz3av2i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-3.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 1,
+            "url": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1107i215%2F5yfwbnbnez16mtyebp8mt5yd07i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-3.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 2,
+            url: "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1259i215%2Fppftd180hcsn4g6kpnrvsa8765i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-4.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 2,
+            url: "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1259i215%2Fqj2yr7pws6sm4g267s900phnr7i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-4.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 2,
+            url: "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1259i215%2Fpvxh0429apwf4cph7g22hdgg70i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-4.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 2,
+            url: "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1259i215%2Fdwnwxdbfs4kfmke936ew98cey5i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-4.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
+        {
+            "offre": 2,
+            url: "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F1259i215%2Fgvyzp9pq0mma4zeekkxg6ghdx3i215&option=N&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-production-4.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Fdefault.jpg"
+        },
     ]
 }
