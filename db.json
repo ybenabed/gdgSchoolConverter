@@ -44,6 +44,14 @@
             "position": "Annaba",
             "prix": 3400,
             "owner": 2
+        },
+        {
+            "id": 3,
+            "title": "Studio pour 2personnes!, avec un joli balcon..",
+            "equipement": "Non equipe",
+            "position": "Oran",
+            "prix": 1850,
+            "owner": 2
         }
     ],
     "pictures": [
