@@ -34,7 +34,7 @@
             "title": "F3 à la frontiere!",
             "equipement": [
                 {"offre": 1, "label": "Climatisation","detail": "Disponible"},
-                {"offre": 1, "label": "jardin","detail": "Disponible"},
+                {"offre": 1, "label": "jardin","detail": "Disponible"}
             ],
             "position": "Skikda",
             "prix": 250000,
@@ -45,7 +45,7 @@
             "title": "F2 à la frontiere!",
             "equipement": [
                 {"offre": 2, "label": "Climatisation","detail": "Non Disponible"},
-                {"offre": 2, "label": "Lit","detail": "2"},
+                {"offre": 2, "label": "Lit","detail": "2"}
             ],
             "position": "Annaba",
             "prix": 3400, 
@@ -55,11 +55,11 @@
             "id": 3,
             "title": "Studio pour 2personnes!, avec un joli balcon..",
             "equipement": [
-                {"offre": 3, "label": "Lit","detail": "2"},
+                {"offre": 3, "label": "Lit","detail": "2"}
             ],
             "position": "Oran",
             "prix": 1850,
             "owner": 2
         }
-    ],
+    ]
 }
