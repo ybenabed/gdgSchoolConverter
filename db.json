@@ -62,42 +62,4 @@
             "owner": 2
         }
     ],
-    "pictures": [
-        {
-            "offre": 1,
-            "url": "https://drive.google.com/file/d/1KQRa2y8h1Ku0nAouIENWfakUS24SgCrj/view"
-        },
-        {
-            "offre": 1,
-            "url": "https://drive.google.com/file/d/13T9l2MBxvRPPhZtnf9A0ohPy84N3bC5V/view"
-        },
-        {
-            "offre": 1,
-            "url": "https://drive.google.com/open?id=1FEebeh-9V-CFVU0VLKMcv80U6CS_kUqn"
-        },
-        {
-            "offre": 1,
-            "url": "https://drive.google.com/open?id=1622L14tfu9cjwcEDT_uC8MTs-XqDw91f"
-        },
-        {
-            "offre": 2,
-            "url": "https://drive.google.com/open?id=10BSgFAIOA0RQ5M7L80VmZIXeVzw0KNJP"
-        },
-        {
-            "offre": 2,
-            "url": "https://drive.google.com/open?id=1n94VveFLHoS0R2m0SY-LL-WmnCf2Lb5y"
-        },
-        {
-            "offre": 2,
-            "url": "https://drive.google.com/open?id=1Zh_AOdUVd7m0JesOGGsmVbKx3swRZM3s"
-        },
-        {
-            "offre": 2,
-            "url": "https://drive.google.com/open?id=1Bj-iHvWNN1U6uA0L3wfFpm-2-f4HNZPh"
-        },
-        {
-            "offre": 2,
-            "url": "https://drive.google.com/open?id=1FH7v7VD8pcvnW7NanB1Uyk4fw8k2KmEY"
-        }
-    ]
 }
