@@ -38,6 +38,10 @@
             ],
             "position": "Les canadiennes - Ain Taya - Alger",
             "prix": 5400,
+            "pics": [
+                "assets/images/hotel0.jpg", "assets/images/hotel1.jpg", "assets/images/hotel2.jpg",
+                "assets/images/stmarksbasilica.jpg",
+            ],
             "owner": 1
         },
         {
@@ -49,6 +53,10 @@
             ],
             "position": "Trou Ville - Ain Turk - Oran",
             "prix": 3400, 
+            "pics": [
+                "assets/images/hotel0.jpg", "assets/images/hotel1.jpg", "assets/images/hotel2.jpg",
+                "assets/images/stmarksbasilica.jpg",
+            ],
             "owner": 2
         },
         {
@@ -59,6 +67,10 @@
             ],
             "position": "Cité El Hayat - Rechgoun - Ain Tmouchent",
             "prix": 2400,
+            "pics": [
+                "assets/images/hotel0.jpg", "assets/images/hotel1.jpg", "assets/images/hotel2.jpg",
+                "assets/images/stmarksbasilica.jpg",
+            ],
             "owner": 2
         }
     ]
