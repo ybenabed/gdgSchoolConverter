@@ -40,7 +40,7 @@
             "prix": 5400,
             "pics": [
                 "assets/images/hotel0.jpg", "assets/images/hotel1.jpg", "assets/images/hotel2.jpg",
-                "assets/images/stmarksbasilica.jpg",
+                "assets/images/stmarksbasilica.jpg"
             ],
             "owner": 1
         },
@@ -55,7 +55,7 @@
             "prix": 3400, 
             "pics": [
                 "assets/images/hotel0.jpg", "assets/images/hotel1.jpg", "assets/images/hotel2.jpg",
-                "assets/images/stmarksbasilica.jpg",
+                "assets/images/stmarksbasilica.jpg"
             ],
             "owner": 2
         },
@@ -69,7 +69,7 @@
             "prix": 2400,
             "pics": [
                 "assets/images/hotel0.jpg", "assets/images/hotel1.jpg", "assets/images/hotel2.jpg",
-                "assets/images/stmarksbasilica.jpg",
+                "assets/images/stmarksbasilica.jpg"
             ],
             "owner": 2
         }
